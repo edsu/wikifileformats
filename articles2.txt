@@ -1,0 +1,2317 @@
+24SevenOffice
+28 Weeks Later (video game)
+2D plus Delta
+2D-plus-depth
+30-Second Bunnies Theatre
+350pages
+3CT
+3Dc
+3DML
+3DMLW
+.3ds
+3DXML
+3GP and 3G2
+3ivx
+4GV
+6teen
+7z
+AAC-LD
+AAP DTD
+ABC notation
+Abobo's Big Adventure
+AC3Filter
+ACD Canvas
+Ace (editor)
+ACE (file format)
+AcetoneISO
+Acid1
+Acid2
+Acid3
+ACIS
+Acronis True Image
+ACT (audio format)
+Action Message Format
+ActionScript
+ActionScript code protection
+Activity Streams (format)
+Adaptive differential pulse-code modulation
+Adaptive Multi-Rate audio codec
+Adaptive Multi-Rate Wideband
+Adaptive Transform Acoustic Coding
+Additive Manufacturing File Format
+Adenine (programming language)
+ADL Registry
+Adobe Brackets
+Adobe Captivate
+Adobe Dreamweaver
+Adobe Flash
+Adobe Flash Lite
+Adobe Flash Media Live Encoder
+Adobe Flash Player
+Adobe Flash Professional
+Adobe Flash Remoting
+Adobe GoLive
+Adobe Illustrator Artwork
+Adobe Integrated Runtime
+Adobe PageMill
+Adobe Shockwave Player
+Adobe SWC file
+Adobe Wallaby
+AdsML
+Advanced Audio Coding
+Advanced Distributed Learning
+Advanced Function Presentation
+Advanced Stream Redirector
+Advanced Systems Format
+AdventureQuest
+AdventureQuest Worlds
+ADX (file format)
+AecXML
+Aerodrome Mapping Database
+Aether (video game)
+Against All Odds (video game)
+AgcXML
+AGML
+.ai (file format)
+AIML
+Aiseesoft Total Video Converter
+AIXM
+AJAJ
+Ajax4jsf
+Ajax framework
+AJAX.OOP
+Ajax (programming)
+A-kuei (webtoon)
+A-law algorithm
+Alchemy (game)
+Alcohol 120%
+Alejo & Valentina
+Algebraic code-excited linear prediction
+A Little Curious
+Alleycode HTML Editor
+All your base are belong to us
+Almost Naked Animals
+Alt attribute
+Alteil
+ALTO (XML)
+Altsoft Xml2PDF
+Amiga Disk File
+Amiga Hunk
+Ample SDK
+AMS Euler
+AMS-LaTeX
+AMSRefs
+AMV video format
+Angela Anaconda
+Angry Brides
+AngularJS
+.ani
+ANI (file format)
+ANIM
+Animation codec
+Animax Entertainment
+Animutation
+Annodex
+ANPA-1312
+Any Video Converter
+AOLpress
+A.out
+Apache Ant
+Apache Flex
+Apache Pivot
+Apache XAP
+Apache XML
+APNG
+AppFlower
+Apple Advanced Typography
+Apple Disk Image
+Apple Icon Image format
+Apple Intermediate Codec
+Apple Lossless
+AppleSingle and AppleDouble formats
+Apple Software Restore
+AppML
+Apt-X
+Arbortext Command Language
+ARC (file format)
+ArcGIS Explorer
+ArchiCAD library part
+Architecture Neutral Distribution Format
+Archive file
+Archive format
+ArcXML
+ARJ
+Armed with Wings
+Arm Image Format
+ART image file format
+Ar (Unix)
+.arw
+AS4
+Asao (codec)
+Ascii85
+AsciiDoc
+ASCIIMathML
+ASCII tab
+ASP.NET AJAX
+Assy McGee
+ASTIS database
+AstroPop
+Atari SAP music format
+ATML
+Atom (standard)
+Attack of the Mutant Artificial Christmas Trees
+Attention Profiling Mark-up Language
+Audio codec
+Audio file format
+Audio Interchange File Format
+Audio Lossless Coding
+Audio Video Interleave
+Audio Video Standard
+Auditorium (video game)
+Au file format
+Aural Cascading Style Sheets
+Auroraflash
+AutoCAD DXF
+Auto-lead Data Format
+AutomationML
+Autopackage
+Autostreamer
+AVC-Intra
+Average bitrate
+AxKit
+AxsJAX
+Badger Badger Badger
+BagIt
+Bananagrams (online game)
+Bang Cartoon
+BareXML
+Barrow Area Information Database
+BASBAL
+Base32
+Base 36
+Base64
+BaseX
+Bateman 365
+Batik (software)
+.bay
+BBCode
+Beacon Editor
+Beautiful Soup
+BE-Bridge
+.bef
+BEF (image format)
+Bejeweled
+Bejeweled 2
+Best Ed
+B. Happy
+BibTeX
+Billion laughs
+Binary Format Description language
+Binary-to-text encoding
+Binary XML
+Bindows
+Bing Maps
+Bing Maps Platform
+BinHex
+Bink Video
+Biografisch Portaal
+BioPAX
+Biositemap
+Bitmap
+Bitstream Speedo Fonts
+Blaxxun
+Blink element
+Blockquote element
+BlogML
+Bloody Fun Day
+BlooSee
+Blorb
+.BLP
+Blu-code
+Bluefish (text editor)
+Blueprint (CSS framework)
+BMP file format
+Bonnie's Bookstore
+Bookends (software)
+Bookworm (video game)
+Boot image
+Boot image control
+Botanicula
+BPEL4People
+BPEL script
+Brackenwood
+BrainPop
+British National Corpus
+Broadcatching
+Broken Saints
+Bruno Bozzetto
+BSAVE (graphics image format)
+BSON
+.bss
+Bumper Stars
+Business Process Definition Metamodel
+Business Process Execution Language
+Business Tycoon Online
+Bzip2
+Cabinet (file format)
+Cache manifest in HTML5
+CAD data exchange
+CAD standards
+Cairngorm (Flex framework)
+Cálico Electrónico
+Call Control eXtensible Markup Language
+CALS (DOD)
+CALS Raster file format
+CALS Table Model
+Caltech Intermediate Form
+Calvin Tran
+CAM editor
+Camera Image File Format
+Canonical link element
+Canonical XML
+Canvas element
+.cap
+Captain Forever
+Cartesian Perceptual Compression
+Cascading Style Sheets
+Cassowary (software)
+CCP4 (file format)
+CCTRL
+CDATA
+CDemu
+CDuce
+CDX Format
+CDXL
+CDXML
+CE-HTML
+CellML
+CELT
+CFS (Compact File Set file format)
+.cgm
+Channel Definition Format
+Chaotic (TV series)
+Character encodings in HTML
+Character entity reference
+Charles Goldfarb
+Charlie and Lola (TV series)
+Cheetah News
+Chemical file format
+Chemical Markup Language
+Chemical table file
+Chick Chick Boom
+Chilly Beach
+Chloe's Closet
+Chord (software)
+Christmas Is Here Again
+Chronotron
+C-HTML
+Chuzzle
+.cin
+CineForm
+Cinema Craft Encoder
+CinemaDNG
+Cineon
+Cinepak
+Citadel/UX
+CityGML
+ClaML
+Claris Home Page
+ClearTalk
+Client Music Synthesis
+Climate Challenge
+CLIPS
+Clonezilla
+Clusterpoint
+CMD file (CP/M)
+Coda (web development software)
+Codec
+Codec2
+Code-excited linear prediction
+Codeita
+Code segment
+CodeSynthesis XSD
+CodeSynthesis XSD/e
+COFF
+CoffeeCup HTML Editor
+Colin Moock
+Collaborative Application Markup Language
+COLLADA
+Collection of Computer Science Bibliographies
+Combined Community Codec Pack
+Comet (programming)
+COM file
+Comma-separated values
+Common Alerting Protocol
+Common Compiler Feedback Format
+Common Log Format
+Common logic
+Comparison of Adobe Flex charts
+Comparison of archive formats
+Comparison of audio formats
+Comparison of container formats
+Comparison of disc image software
+Comparison of disk cloning software
+Comparison of document markup languages
+Comparison of early HTML editors
+Comparison of executable file formats
+Comparison of feed aggregators
+Comparison of free web hosting services
+Comparison of graphics file formats
+Comparison of HTML5 and Flash
+Comparison of HTML editors
+Comparison of HTML parsers
+Comparison of JavaScript-based source code editors
+Comparison of JavaScript frameworks
+Comparison of layout engines (Cascading Style Sheets)
+Comparison of layout engines (HTML)
+Comparison of layout engines (HTML5)
+Comparison of layout engines (HTML5 canvas)
+Comparison of layout engines (MathML)
+Comparison of layout engines (non-standard HTML)
+Comparison of layout engines (Scalable Vector Graphics)
+Comparison of layout engines (XHTML)
+Comparison of layout engines (XHTML 1.1)
+Comparison of Office Open XML and OpenDocument
+Comparison of OpenXPS and PDF
+Comparison of stylesheet languages
+Comparison of user interface markup languages
+Comparison of Vector Formats (GIS)
+Comparison of video codecs
+Comparison of video converters
+Comparison of XML editors
+Component content management system
+Compound Document Format
+Compound File Binary Format
+Computable Document Format
+Computer Graphics Metafile
+Computer Modern
+Computers and Typesetting
+Concrete Roman
+Conditional comment
+Consegi declaration
+Constant bitrate
+Content Assembly Mechanism
+Content Management Interoperability Services
+Content Sealed Format
+Content syndication markup language
+Context management
+Contextual Query Language
+Continuously variable slope delta modulation
+Continuous Media Markup Language
+Controlled image base
+Conversation Markup Language
+Cook Codec
+CookXml
+Coolite
+CopyCatX
+Core Audio Format
+CoreAVC
+Cork encoding
+Corpse Craft: Incident at Weardd Academy
+CosmicOS
+CougarXML
+.cpc
+.cpi
+Cpio
+CPT (file format)
+Creative Music File
+Creative Video Converter
+Creole (markup)
+Cross-document messaging
+Crossmark
+Cross-origin resource sharing
+Crush the Castle
+.crw
+Crystallographic Information File
+CSE HTML Validator
+CSS Animations
+CSS filter
+CSS frameworks
+CSSTidy
+CSS Zen Garden
+CSV application support
+CTAN
+Curl (programming language)
+CXML
+Cybersound
+CycL
+D3L
+Daemon Tools
+DAISY Digital Talking Book
+DAML+OIL
+DAML-S
+Danny Phantom
+Dan Vs.
+Darfur is Dying
+DARPA Agent Markup Language
+Darwin Information Typing Architecture
+Datafork TrueType
+Data Interchange Format
+Data segment
+Datex2
+DATR
+David Webber
+Dawn of the Dragons (video game)
+DCML (markup language)
+.dcr
+.dcs
+Dct (File Format)
+Dd (Unix)
+Deb (file format)
+Defend Your Castle
+Delimiter
+Demultiplexer (media file)
+Departmental boot image
+Description logic
+Design Exchange Format
+Design Web Format
+Desktop Tower Defense
+Detentionaire
+Deutschsprachige Anwendervereinigung TeX
+Device independent file format
+DGCA (computing)
+DGML
+DGN
+Dhtmlx
+Dialnorm
+Dialog Control Language
+Dialogic ADPCM
+DicML
+Digital Cadastral DataBase
+Digital container format
+Digital eXtreme Definition
+Digital Geographic Exchange Standard
+Digital Item Declaration Language
+Digital line graph
+Digital Medievalist
+Digital Negative
+Digital Novel Markup Language
+Digital Picture Exchange
+Digital raster graphic
+Digital Signature Services
+Digital Sound Factory
+Digital Speech Standard
+Dilberito
+Dimensional Markup language
+Dino Run
+Dirac (video compression format)
+Direct Access Archive
+DirectDraw Surface
+Directory Services Markup Language
+Disk cloning
+Disk Copy
+Disk Copy Fast
+Disk image
+DiskImageMounter
+Disk Masher System
+Disk-to-disk
+DisplayML
+Distributed Social Networking Protocol
+DITA Open Toolkit
+DivX
+DivX Plus HD
+.djv
+.djvu
+DjVu
+DLS format
+DMPL
+.dng
+DNxHD codec
+DocBook
+DocBook XSL
+Docear
+Document Definition Markup Language
+Document Freedom Day
+Document Object Model
+Document Schema Definition Languages
+Document Structure Description
+Document Style Semantics and Specification Language
+Document Type Declaration
+Document Type Definition
+Document Update Markup Language
+Dojo Toolkit
+Dolby Digital
+Dolby Digital Plus
+Dolby Headphone
+Dolby Laboratories
+Dolby TrueHD
+Don't Look Back (video game)
+Doodle God
+Doogtoons
+DOOM
+Doom WAD
+DOS MZ executable
+DOT language
+.dpx
+DragonFable
+Drawn File
+Drawn Together
+.drf
+DriverPacks
+Dr. Tran
+Drugs I Need
+.drw
+DSM CC
+DS-XML
+DTBook
+DTED
+DTS-HD Master Audio
+DTS (sound system)
+Dual Independent Map Encoding
+Dublin Core
+Duke3d
+Duke3D
+DVB-HTML
+DVD43
+DVDFab
+DVD Flick
+DVD ripper
+DVDStyler
+DWARF
+.dwg
+DWR (Java)
+DXL
+Dynamic Cascading Style Sheets
+Dynamic HTML
+Dynamic Resolution Adaptation
+Dynamic XML
+Dynatext
+Dys4ia
+EAR (file format)
+EARMARK
+Easytrade
+EbXML
+EbXML Messaging Services
+ECMAScript for XML
+ECOFF
+.ecw
+ECW (file format)
+EDACS Provoice
+EDIF
+EditGrid
+EditPlus
+EDXL
+EDXL Sharp
+Efficient XML Interchange
+EGG (file compression)
+Eiffeldoc
+El Chavo: The Animated Series
+Elecard
+Election Markup Language
+El Tigre: The Adventures of Manny Rivera
+Embedded OpenType
+Embedded RDF
+EMML
+EMML (Motorola)
+Emotion Markup Language
+EMVC
+Encapsulated PostScript
+Encoded Archival Context
+Encoded Archival Description
+EndNote
+Enhanced Audio Codec
+Enhanced full rate
+Enhanced Variable Rate Codec
+Enhanced Variable Rate Codec B
+Enriched text
+Ensonido
+Enterprise forms automation
+Enterprise Privacy Authorization Language
+EPIC 2014
+Epic Saga: Extreme Fighter
+EpiDoc
+EPUB
+Epydoc
+Eqn
+.erf
+Ericom Software
+ESobi
+Esri grid
+EtText
+European Soil Database
+EventsML-G2
+Every Day the Same Dream
+Evony
+Example Pictor Decoder
+Example Pictor Encoder
+Exchangeable image file format
+EXE
+Executable and Linkable Format
+Executable compression
+.exif
+Expat (library)
+Exploit (video game)
+Expressive power
+.exr
+EXSLT
+Extended Adaptive Multi-Rate – Wideband
+Extended Log Format
+Extended Vector Animation
+Extensible Application Markup Language
+Extensible Binary Meta Language
+Extensible Configuration Checklist Description Format
+Extensible Data Format
+Extensible Forms Description Language
+Extensible Messaging and Presence Protocol
+Extensible MPEG-4 Textual Format
+Extensible Provisioning Protocol
+Extensible Resource Identifier
+EXtensible Server Pages
+Ext JS
+EZGenerator
+F3 (font format)
+FAAC
+Fahrner Image Replacement
+Family tree mapping
+Fancy Pants Adventures
+Fantastic Contraption
+FASTA format
+Fast Infoset
+FASTQ format
+Fat binary
+Faux columns
+FCX file compression
+Fdb
+Feed icon
+Feeding Frenzy (video game)
+FeedSync
+Fetch! with Ruff Ruffman
+Ffdshow
+.fff
+FFmpeg
+FFV1
+FHTML
+FicML
+FictionBook
+Fielded text
+FileMaker Dynamic Markup Language
+File select
+FirstPage
+Fishdom
+Fish Hooks
+Fishtronaut
+FITS
+Five Minutes to Kill (Yourself)
+Fixed exe
+FLAC
+Flash animation
+Flashback (Flash animation)
+Flash chart
+Flash component
+Flash Element TD
+Flash Gallery
+Flash MP3 Player
+FlashPix
+Flash Video
+FleXML
+FLIC (file format)
+Flickr
+FlipFactory
+Flow Description Markup Language
+Flowplayer
+FLWOR
+Font family (HTML)
+FontForge
+FormatFactory
+Formatted Disk Image
+Formatting Output Specification Instance
+Form Faces
+Form (web)
+Foster's Home for Imaginary Friends
+Foundation (framework)
+FpML
+.fpx
+Fractal compression
+Framing (World Wide Web)
+FreeArc
+FreeDict
+Freemake Video Converter
+Free Studio
+FS-1015
+FS-1016
+Full Rate
+Furius ISO Mount
+FuseDocs (programming)
+FutureSplash Animator
+FutureWave Software
+Fuzzy markup language
+FXG
+Fxgrep
+FXML
+G.711
+G.718
+G.719
+G.722
+G.722.1
+G.722.2
+G.723
+G.723.1
+G.726
+G.728
+G.729
+G.729.1
+GADM
+Game Boy Sound System
+GameSWF
+GCA (file format)
+GDAL
+GData
+GDSII
+Gellish
+GemCraft
+General MIDI
+General purpose markup language
+Gens Sound Record
+GEOBASE (database)
+Geographical database
+Geographic data
+Geographic Data Files
+Geographic Names Information System
+Geography Markup Language
+GeoJSON
+Geometric Description Language
+GeoNames
+George Liquor
+George of the Jungle (2007 TV series)
+GeoSciML
+Geotagged photograph
+GeoTIFF
+GeoXACML
+Gerald McBoing-Boing (TV series)
+Gerber format
+.gfa
+Ghent PDF Workgroup
+Ghost (software)
+.gif
+Gifar
+GIS file formats
+Glade Interface Designer
+Global information management Metrics eXchange
+Global listings format
+Global motion compensation
+Glyph Bitmap Distribution Format
+GML Application Schemas
+Gnash
+GNU LilyPond
+.gnumeric
+GNU Unifont
+Gollum browser
+Google Docs
+Google Earth
+Google Maps
+Google Reader
+Google Swiffy
+Google Wave Federation Protocol
+Gotham Girls
+GPS eXchange Format
+Graffiti Markup Language
+Granite data services
+Grapher
+Graphics Interchange Format
+Graphite (SIL)
+GraphML
+Graph Modelling Language
+Graph Style Sheets
+GRDDL
+Green Building XML
+Green Pages
+Gregory Weir
+GRML
+Groff (software)
+Grossology (TV series)
+Growing Up Creepie
+.gs (file format)
+GSON
+GuideML
+Guitar chord file format
+GXA
+GXL
+GYM
+Gzip
+H.120
+H.261
+H.262/MPEG-2 Part 2
+H.263
+H.264/MPEG-4 AVC
+H.264/MPEG-4 AVC products and implementations
+Haiku Vector Icon Format
+Half Rate
+Haml
+Handheld Device Markup Language
+Happy Monster Band
+Happy Tree Friends
+Happy Wheels
+Hard Drinkin' Lincoln
+Harmonic and Individual Lines and Noise
+Harmonic Vector Excitation Coding
+HAtom
+Hatten är din
+HaXml
+.hdp
+HDRi (data format)
+HDX4
+Head–body pattern
+Heavy Weapon
+Heli Attack 2
+Heli Attack 3
+Heli Attack (series)
+Helmi Technologies
+HERAS-AF
+Hero: 108
+Hershey font
+HFSLIP
+HHCode
+High-Definition Coding
+High dynamic range imaging
+High-Efficiency Advanced Audio Coding
+High Efficiency Video Coding
+High-Speed Reliable Logging
+Hi Hi Puffy AmiYumi
+Hijax
+History of web syndication technology
+HiT Software
+HNews
+Holy Grail (web design)
+Home Movies (TV series)
+Homestar Runner
+Host Master and the Conquest of Humor
+HotDog
+Hotel Technology Next Generation
+HoTMetaL
+HTML
+HTML5
+HTML5 Audio
+HTML5 File API
+HTML5 in mobile devices
+HTML5 Shiv
+HTML5 video
+HTML Application
+HTML attribute
+HTML color names
+HTML decimal character rendering
+HTML editor
+HTML element
+HTML email
+HTML sanitization
+HTML scripting
+HTML+TIME
+HTTP body data
+Hudson Entertainment System Sound Format
+Huffyuv
+Human flesh search engine
+Human Markup Language
+Hunted Forever
+Hypertext Transfer Protocol
+HyTime
+Ian Hickson
+IBIS Interconnect Modeling Specification
+IBM Generalized Markup Language
+Icebox.com
+ICEfaces
+ICER
+.icns
+.ico
+ICO (file format)
+Icy Tower
+ID-WSF
+.iff
+IFrame (video format)
+IGES
+Iggy Arbuckle
+IgniteXML
+.iiq
+Ikivo Animator
+Iklax
+.ilbm
+ILBM
+IMA (file format)
+Image Cytometry Standard
+Image file formats
+Image map
+IMF (file format)
+IMG (file format)
+Implicit animation
+Impro-Visor
+InChI Trust
+Incredibots
+Indeo
+Information and Content Exchange
+Information Presentation Facility
+Ingest Machine DV
+Inkscape
+Intel HEX
+Intellifont
+Intel Quick Sync Video
+Intel SOA Products Division
+Interaction protocol
+Interactive Financial Exchange
+Intergraph Standard File Formats
+International Chemical Identifier
+International development markup language (IDML)
+Internationalization Tag Set
+Internet Explorer box model bug
+Internet Low Bitrate Codec
+Internet Speech Audio Codec
+InterShop Markup Language
+IRows
+IS-641
+ISO 10303
+ISO 12234-2
+ISO 13399
+ISO 2709
+ISO base media file format
+ISO image
+ISO Master
+ISO-TimeML
+IT (file format)
+Ithkuil
+ITunes LP
+Jacob Two-Two (TV series)
+Jake and the Never Land Pirates
+Jake's Booty Call
+James Clark (programmer)
+JAM notation
+JAR (file format)
+Java API for RESTful Web Services
+Java API for XML-based RPC
+Java API for XML Messaging
+Java API for XML Processing
+Java API for XML Registries
+Java API for XML Web Services
+Java Architecture for XML Binding
+JavaScript Language Query
+JavaScript library
+JavaScriptMVC
+Javascript Simple Syndication
+JavaScript Style Sheets
+Java Speech Markup Language
+JBIG
+JBIG2
+JDOM
+JEDMICS
+JellyTelly
+Jena (framework)
+Jess (programming language)
+JHTML
+JibJab
+Jimmy Two-Shoes
+.jls
+JMaki
+.jng
+Job Definition Format
+Job Submission Description Language
+Joe Cartoon
+Joe Ossanna
+Johnny Test
+Johnny Two Shoes
+Joint Bi-level Image Experts Group
+Joint Committee on Atomic and Molecular Physical Data
+.jp2
+.jpe
+JPEG
+JPEG 2000
+JPEG File Interchange Format
+JPEG-HDR
+JPEG Network Graphics
+JPEG XR
+Jpspan
+.jpx
+JQuery
+JQuery Mobile
+JRDF (framework)
+JSON
+JSON-LD
+JsonML
+JSONP
+JsPHP
+JStart
+JT (visualization format)
+Jugglor
+.k25
+Kappa Mikey
+KaXUL
+.kdc
+KernelCAD
+Keyhole Markup Language
+KFN
+Kick Buttowski: Suburban Daredevil
+Kid vs. Kat
+Kikoriki (animated series)
+King Arthur's Disasters
+KIWI (computing)
+Kleo Bare Metal Backup
+Klip
+K-Lite Codec Pack
+KL-ONE
+Knowledge Discovery Metamodel
+Knowledge Interchange Format
+Knowledge Query and Manipulation Language
+KompoZer
+KRL (programming language)
+KXML
+L3enc
+Lagarith
+LAME
+Landmap
+Language Integrated Query
+LaTeX
+LaTeX2HTML
+LaTeX Project Public License
+Launchball
+Layered Image File Format
+Layer element
+.lbm
+LBR (file format)
+LCF notation
+Leader Dog
+LEB128
+LESS (stylesheet language)
+LGML
+LHA (file format)
+Libav
+Libavcodec
+Libdvdcss
+LibLAS
+Library Exchange Format
+Librsvg
+Libsndfile
+Libxml2
+Libxslt
+Liferea
+Lightspark
+Lightweight markup language
+Lincos (artificial language)
+Linear predictive coding
+Line Rider
+Link contract
+Link relation
+LinuxDoc
+Liquid XML Studio
+Listaller
+List of archive formats
+List of codecs
+List of content syndication markup languages
+List of disk cloning software
+List of document markup languages
+List of file formats
+List of file formats (alphabetical)
+List of hardware and software that supports FLAC
+List of HTML editors
+List of Markdown implementations
+List of markup languages
+List of open source codecs
+List of programs that open TS files
+List of remastering software
+List of RISC OS filetypes
+List of STEP (ISO 10303) parts
+List of stylesheet languages
+List of user interface markup languages
+List of video services using H.264/MPEG-4 AVC
+List of XML and HTML character entity references
+List of XML markup languages
+Little Einsteins
+Lively Kernel
+Local shared object
+Location API for Java ME
+Log4j
+Logluv TIFF
+LOGML
+Lola & Virginia
+Lone Sausage
+Long-term Predicted Excitation Coding
+LOOM (ontology)
+Lossless JPEG
+Lossless predictive audio compression
+Lossless Transform Audio Compression
+Lpod
+LSM (Zeiss)
+LuaTeX
+Lucida
+Lucky Fred
+LungoJs
+Luxor (toolkit)
+M3U
+M4V
+MacBinary
+Machinarium
+Mach-O
+Macroglossa Visual Search
+Macromedia HomeSite
+Magic gopher
+MagicISO
+Magick Image File Format
+Maildir
+MainConcept
+MakeDoc
+MakeIndex
+Maker Interchange Format
+Making Fiends (TV series)
+Making Fiends (web cartoon)
+Mallard (documentation)
+MAP (file format)
+MapInfo Interchange Format
+MapInfo TAB format
+Map My Ancestors
+Maqetta
+Marble (software)
+MARC standards
+MAREC
+MARIA XML
+Markdown
+Markdown extensions
+Markdown Extra
+Marketing.xml
+Markup language
+Marquee element
+Maryoku Yummy
+Masyanya
+Mathematical markup languages
+MathML
+MathTime
+Matroska
+Max and Ruby
+MBM (file format)
+Mbox
+McDonald's Videogame
+MD2 (file format)
+MD3 (file format)
+.MDX
+Mean opinion score
+MECS
+MediaCoder
+Media queries
+Media RSS
+Medical Reality Markup Language
+.mef
+Men from Up the Stairs
+Meridian Lossless Packing
+Meronymy SPARQL Database Server
+Metadata Authority Description Schema
+Metadata Object Description Schema
+Meta element
+Metafont
+Metalink
+Metalocalypse
+MetaPost
+Meta refresh
+MetaWeblog
+METS
+MH Message Handling System
+MHTML
+Microcontent
+Microdata (HTML)
+MicroDVD
+Microformat
+Microsoft Assistance Markup Language
+Microsoft Document Imaging Format
+Microsoft Expression Web
+Microsoft FrontPage
+Microsoft Office XML formats
+Microsoft SharePoint Designer
+Microsoft Video 1
+MIDI 1.0
+MIDI file
+MIDI Tuning Standard
+Mike Lesk
+MIL-CD
+MIL-STD-6040
+Ming library
+Miniconomy
+Minions (flash game)
+Minushi
+Mirabyte Web Architect
+Mixed-excitation linear prediction
+MIX (Email)
+.mng
+MO3
+MODCA
+Modernizr
+MOD (file format)
+Module file
+Mondo Mini Shows
+Monkey's Audio
+Monster Trucks Nitro
+MooTools
+Morfik
+Morfik FX
+.mos
+MOS Technology SID
+MOTAS
+Motion JPEG
+Motorcity
+MovieCD
+Mozilla Archive Format
+MP3
+MP3 CD
+MP3+G
+Mp3HD
+MP3 Newswire
+Mp3PRO
+Mp3splt
+MP3 Surround
+MP3 SX
+MPC-MLQ
+MPEG-1
+MPEG-1 Audio Layer II
+MPEG-2
+MPEG-3
+MPEG-4
+MPEG-4 Part 14
+MPEG-4 Part 17
+MPEG-4 Part 2
+MPEG-4 Part 3
+MPEG Audio Decoder
+MPEG-D
+MPEG LA
+MPEG Multichannel
+MPEG program stream
+MPEG Streamclip
+MPEG Surround
+MPEG transport stream
+MPQ
+MRC (file format)
+MrSID
+.mrw
+Mr. Wong (cartoon character)
+MSCML
+MSML
+MSSTYLES
+MSU Lossless Video Codec
+MSXML
+MTASC
+¡Mucha Lucha!
+Muffin Films
+Mugurdy
+Multi-Band Excitation
+MultiMarkdown
+Multimedia Web Ontology Language
+Multimodal Architecture and Interfaces
+Multimodal search
+Multiple-image Network Graphics
+Multiple master fonts
+Multiview Video Coding
+Mumasy
+Musepack
+MusicDNA (file format)
+Music Encoding Initiative
+Music Macro Language
+Music Markup Language
+MusicXML
+MusiXTeX
+MVI
+MXML
+MXP (computing)
+My Brute
+My Game About Me: Olympic Challenge
+My Life as a Teenage Robot
+Mystery Science Theater 3000 (Flash series)
+MzXML
+Namespace-based Validation Dispatching Language
+Namespace Routing Language
+NASA World Wind
+National Information Exchange Model
+National Information Standards Organization Circulation Interchange Protocol
+National Transfer Format
+Natural Language Semantics Markup Language
+NavPix
+NCSA log formats
+Necropolis (browser game)
+.nef
+Neighbors from Hell
+Nellymoser
+Nemeth Braille
+Nero Digital
+NES Sound Format
+Nested Context Language
+NetNewsWire
+NetObjects Fusion
+Netpbm format
+Netscape Composer
+NetWare Loadable Module
+NeuroML
+Neurotically Yours
+New Executable
+Newgrounds
+Newick format
+NewsFire
+NewsGator Technologies
+News Industry Text Format
+NewsML
+NewsML 1
+NewsML-G2
+New Typesetting System
+New Zealand Electronic Text Centre
+NeXML
+NICAM
+NIEM conformance
+Ni Hao, Kai-Lan
+Ninjai
+NLite and vLite
+Nokogiri (project)
+NoorderSoft Waterways Database
+Notation3
+Notation Interchange File Format
+Noweb
+NRG (file format)
+Nroff
+Nspluginwrapper
+Nullsoft Streaming Video
+Numeric character reference
+N (video game)
+NZB
+OASIS.MASK
+OASIS (organization)
+OAXAL
+Object-based spatial database
+Object file
+Observations and Measurements
+OCML
+ODB++
+Odd Job Jack
+ODRL
+.ods
+Odttf
+Office MathML
+Office Open XML
+Office Open XML file formats
+Office Open XML Intermediate 5 Month Ballot Results
+OFML
+OGDL
+Ogg
+Ogg Squish
+Ogg Writ
+O'Grady
+OIOXML
+OMA Client Provisioning
+OMA Device Management
+OMDoc
+Omega (TeX)
+OMG standard
+OML
+OmniMark
+OMS Video
+On2 Flix
+ONIX for Books
+Onix (publishing protocol)
+On the Moon
+Ontology Inference Layer
+Ontology language
+OpenAccess ORM
+OpenAjax Alliance
+Open Artwork System Interchange Standard
+OpenBEXI
+Open Clip Art Library
+OpenCTM
+Open Data Protocol
+OpenDD
+Open Design Alliance
+Open Dialect
+OpenDocument
+Open Document Architecture
+Open eBook
+OpenEXR
+OpenLaszlo
+OpenLayers
+OpenLR
+Open Mashup Alliance
+OpenMath
+OpenOffice Draw
+OpenOffice.org XML
+OpenRaster
+Open Scripture Information Standard
+OpenSearch
+Open Sound Control
+OpenTravel Alliance
+OpenType
+Open XML Paper Specification
+Opera Show Format
+OPML
+OptimFROG
+Opus (audio format)
+Oracle BI Publisher
+Orchidée (software)
+.orf
+ORF format
+Org-mode
+Original Sound Quality
+Osmap
+Outernauts
+Outliers ratio
+Outline of search engines
+Out of Jimmy's Head
+OWL-S
+Oxford Text Archive
+Oxygen XML Editor
+OZ Virtual
+Page description markup language
+PAK (file format)
+PAM graphics format
+Parameter Value Language
+Parasolid
+Parboiled (Java)
+Parchive
+Partimage
+PCDATA
+.pcx
+PCX
+PDC-EFR
+PDC-HR
+PDF/X
+PEA (file format)
+PEAQ
+.pef
+People Finder Interchange Format
+Percent-encoding
+Perceptual audio coder
+Perian
+Perseus Project
+Personal Storage Table
+PESQ
+Petri Net Markup Language
+PEVQ
+PGF/TikZ
+PhD Docbook renderer
+Photofont
+PhyloXML
+Phynd
+Physical markup language
+Pic language
+PICT
+PICtor PIC image format
+Piki & Poko
+Pileup format
+PING (software)
+Pinky Dinky Doo
+Pixlet
+Pizza Frenzy
+PK2 (file extension)
+PK3 (file extension)
+PK4 (file extension)
+Pkfix
+Placenames Database of Ireland
+Plain Old Documentation
+Plain Old XML
+Plants vs. Zombies
+Playlist
+Playlist markup language
+PLS (file format)
+PLY (file format)
+.png
+POLQA
+Polyglot markup
+Popzilla
+Portable Application Description
+Portable Compiled Format
+Portable Document Format
+Portable Executable
+Portable media player
+Portable Network Graphics
+Portable Sound Format
+PostScript fonts
+Pound Puppies (2010 TV series)
+PowerISO
+PPML
+PRC (file format)
+Precision Graphics Markup Language
+Predictive Model Markup Language
+Preferred Executable Format
+Princess (Flash series)
+Princess Natasha
+Prince XML
+Processing Instruction
+Product data record
+Production Rule Representation
+Program database
+Programming Metadata Communications Protocol
+Program-specific information
+Progressive Graphics File
+Projax
+Pronunciation Lexicon Specification
+Protein Data Bank (file format)
+Prototype JavaScript Framework
+.psd
+PSQM
+.ptx
+Public identifier
+Publishing Requirements for Industry Standard Metadata
+PubSubHubbub
+Pucca
+Pucca (TV series)
+Pulse-code modulation
+PureXML
+Push technology
+.pxn
+Pyu to Fuku! Jaguar
+Qcow
+QDesign
+QDX
+Qiqqa
+Qlipso
+QML
+QName
+Qooxdoo
+QPEG
+Qpel
+QTI
+QUAD (compressor)
+Qualcomm code-excited linear prediction
+Quark XML Author
+Queer Duck
+Quicknet
+QuickTime Alternative
+QuickTime File Format
+QuickTime VR
+Quirks mode
+Quisp
+Quoted-printable
+R2ML
+.r3d
+.raf
+RailML
+Rainman
+Ramm.x
+Random! Cartoons
+Randy Cunningham: 9th Grade Ninja
+RapidWeaver
+RapidXml
+RAR
+Raster graphics
+Ratz (TV series)
+Raw image format
+RDDL
+RDFa
+RDF Inference Language
+RDFLib
+RDF query language
+RDF Schema
+RDF/XML
+RDOFF
+R-Drive Image
+RealAudio
+Really Simple Discovery
+RealMedia
+Realm of the Mad God
+Real Time Messaging Protocol
+RealVideo
+RecipeML
+Reconfigurable video coding
+Redland RDF Application Framework
+Red Room (animation)
+Refer (software)
+ReGIS
+Regular Language description for XML
+Relaxed code-excited linear prediction
+RELAX NG
+Relocatable Object Module Format
+Remote Telescope Markup Language
+Renesis Player
+Report Definition Language
+Requirements Interchange Format
+Residual-excited linear prediction
+Resource Description Framework
+Resources of a Resource
+ReStructuredText
+RetrievalWare
+RetroCode
+Revisable-Form Text
+RGBE image format
+Rhapsody Radish
+Rich Music Format
+Ricky Sprocket: Showbiz Boy
+Rico (Ajax)
+RingTales
+RIS (file format)
+RMVB
+RoadXML
+Robot Unicorn Attack
+Rocket Mania!
+Root element
+Round-trip format conversion
+RPM Package Manager
+RSS
+RSS Advisory Board
+RSS Cloud
+RSS-DEV Working Group
+RSS editor
+RSS enclosure
+RSS tracking
+RSS TV
+RTAudio
+Rtmpdump
+RTVideo
+Ruby character
+Ruby Document format
+Ruby Gloom
+Rule Interchange Format
+RuleML
+Runoff (program)
+RV30
+RV40
+.rw2
+S1000D
+S3M (file format)
+S5 (file format)
+Safari (web browser)
+Sage (Mozilla Firefox extension)
+Sajax
+Salad Fingers
+SAMI
+SAML 1.1
+SAML 2.0
+Sammy's Story Shop
+Samorost
+Samorost 2
+Sandra the Fairytale Detective
+Sandro Corsaro
+Sarvega
+Sass (stylesheet language)
+Saturday Morning Watchmen
+Saxon XSLT
+SBC (codec)
+SBML
+Scalable Inman Flash Replacement
+Scalable Vector Graphics
+Scaredy Squirrel (TV series)
+Schema for Object-Oriented XML
+Schema.org
+Schematron
+Scitex CT
+Scooby Web Calendar
+Scott Isaacs
+Screencast
+Screensaver Creator
+ScRGB
+Scribe (markup language)
+Script.aculo.us
+SCXML
+SDEP
+SeaMonkey
+Search engine (computing)
+Search-oriented architecture
+Search/Retrieve via URL
+Search suggest drop-down list
+Secure Communications Interoperability Protocol
+Secure voice
+Security Assertion Markup Language
+Segmentation Rules eXchange
+Segmented Hyper Graphics
+SEG Y
+Selectable Mode Vocoder
+Self mounting image
+Semantic HTML
+Semantic Interpretation for Speech Recognition
+Semantic Pipes
+Semantic Web Rule Language
+Sencha Touch
+SendMeRSS
+SensorML
+SE-RssTools
+Server Normal Format
+Service Modeling Language
+Service Provisioning Markup Language
+Sesame (framework)
+Setext
+SFNT
+SGML entity
+SGML name
+Shapefile
+Shar
+Sharable Content Object Reference Model
+ShareOffice
+SheerVideo
+Shift (game)
+Shipdex
+Shorten
+Shorty McShorts' Shorts
+Shuriken School
+Sidekick (TV series)
+Silicon Graphics Image
+SILK
+Simple API for XML
+Simple Declarative Language
+Simple HTML Ontology Extensions
+Simple List Extensions
+Simple Outline XML
+Simple Update Protocol
+SimpleXML
+Simple XML
+Simplified molecular-input line-entry system
+Siren (codec)
+SIS (file format)
+Sissy's Magical Ponycorn Adventure
+SiSU
+Sit Down, Shut Up (2009 TV series)
+Sitemaps
+Site Studio
+Sixel
+SkEdit
+SLF4J
+SlickEdit
+Slingo
+Slipstream (computing)
+SlotRadio
+SlySoft
+Smacker video
+Smart Bitrate Control
+Smart client
+SmartClient
+SmilScript
+SMIL Timesheets
+Snappy (software)
+SNP file format
+SOAP
+SOAPjr
+SOAP-over-UDP
+SOAP Service Description Language
+Soapsonar
+SOAP with Attachments
+Sodipodi
+Solution Deployment Descriptor
+Sony Dynamic Digital Sound
+Sorenson codec
+SOSI
+Soundboard (computer program)
+SoundCode
+SoundFont
+Spacecraft Markup Language
+Spacer GIF
+Span and div
+SPARQL
+SPARQL Syntax Expressions
+Sparse image
+SPARUL
+Spatial Archive and Interchange Format
+Spatial database
+Spatial data file
+Spatial Data Transfer Standard
+SpatiaLite
+Spatiotemporal database
+SpeakRight Framework
+Spectral band replication
+Speech Application Language Tags
+Speech coding
+Speech Recognition Grammar Specification
+Speech Synthesis Markup Language
+Speex
+Spewer
+Spliced (TV series)
+SpreadsheetML
+SproutCore
+SQ (program)
+SQX
+.sr2
+SREC (file format)
+.srf
+SRID
+SRS Labs
+Stabs
+Stainboy
+Standard Business Reporting
+Standard Delay Format
+Standard Generalized Markup Language
+Standardization of Office Open XML
+Standard Parasitic Exchange Format
+Stan Lee Media
+StarDict
+Star Dudes
+Starship Regulars
+Star Wars Gangsta Rap
+StAX
+Stereoscopic Video Coding
+Stick Sports
+.STL
+STL (file format)
+Stockholm format
+Stoked (TV series)
+Streaming Transformations for XML
+Streaming XML
+StrixDB
+Structured Fax File
+Study Archive
+StuffIt
+Styled Layer Descriptor
+Style sheet language
+Stylish
+Stylus Studio
+Subjective video quality
+Submachine (series)
+SubRip
+SubStation Alpha
+Superjail!
+.svg
+SVG animation
+SVG-edit
+SVG filter effects
+SVG Kit for Adobe Creative Suite
+SVG Working Group
+.svgz
+SVOPC
+Sw8t.xml
+.swf
+SWF
+SWF2EXE software
+SWFAddress
+Swfdec
+Swfmill
+SWFObject
+SWFTools
+SWORD (protocol)
+SXBL
+SXML
+SYBYL line notation
+SYmbolic LinK (SYLK)
+Symbol table
+SyncEvolution
+Synchronized Multimedia Integration Language
+SyncML
+Syntext Serna
+Synthetic music mobile application format
+Syslog
+System identifier
+System.map
+System Object Model (file format)
+Table cell
+Tableless web design
+Tab-separated values
+Tagged Image File Format
+Tag omission
+Tag soup
+Tar (file format)
+Tasha's Game
+Tbl
+TEI Lite
+Tektronix extended HEX
+Tencent Holdings
+TenDRA Distribution Format
+Tent (protocol)
+TeX
+TeX4ht
+TeX font metric
+TeXML
+Text Encoding Initiative
+Textile (markup language)
+Text semigraphics
+Texy!
+The Amazing World of Gumball
+The Buzz on Maggie
+The Drawn Together Movie: The Movie!
+The Fairly OddParents
+The Goddamn George Liquor Program
+The God & Devil Show
+The High Fructose Adventures of Annoying Orange
+The Kustomonsters
+The Lingo Show
+The Majesty of Colors
+The Mr. Men Show
+Theological Markup Language
+Theora
+The PracTeX Journal
+The Problem Solverz
+There She Is!!
+The Room (video game)
+The Secret Show
+The SWORD Project
+The SyncML Initiative
+The X's
+The Zen of CSS Design
+The Zimmer Twins
+ThinkFree Office
+ThinWire
+Thule (automobile accessories)
+Tieline
+.tif
+.tiff
+TIFF/EP
+Timed Text
+Timeline of audio formats
+TimeML
+Time Warp Trio
+TinyXML
+TipTop (video game)
+TMPGEnc
+TM-XML
+TooLAME
+Topic Maps
+Topologically Integrated Geographic Encoding and Referencing
+TopStyle
+Total Drama
+Total Drama Action
+Total Drama Island
+Total Drama: Revenge of the Island
+Total Drama World Tour
+TotalRecovery
+Total video converter
+Touchstone file
+Toufee
+Transclusion
+Transcoding
+TransducerML
+Transformice
+TransforMiiX
+Translation Memory eXchange
+Transparency (data compression)
+TRAU
+TreeDL
+Tremor (software)
+TREX
+TREX search engine
+TrigML
+TriG (syntax)
+Trinity Rescue Kit
+TRIP Database
+Trivial Graph Format
+TriX (syntax)
+Troff
+Troff macro
+TrueDoc
+TrueMotion
+TrueMotion S
+Truespeech
+TrueType
+Truevision TGA
+TTA (codec)
+TUGboat
+Turtle (syntax)
+TwinVQ
+Twitter Bootstrap
+Twitter Markup Language
+Txt2tags
+TYPSET and RUNOFF
+UDO (markup language)
+UDPCast
+Ugly Americans (TV series)
+UIML
+UJML
+Ultimate Showdown of Ultimate Destiny
+UltraISO
+Ultra Low Delay Audio Coder
+Unicode and HTML
+Unified Speech and Audio Coding
+Uniform Office Format
+Unique Particle Attribution
+Universal 3D
+Universal binary
+Universal Business Language
+Universal Description Discovery and Integration
+Universal Networking Language
+Universal Subtitle Format
+Unstructured Operation Markup Language
+Upload components
+UPX
+URL Subscription Architecture
+Use of Ogg formats in HTML5
+User interface markup language
+User interface modeling
+User interface style sheet language
+USGS DEM
+UsiXML
+USMTF
+Utz (file format)
+Uuencoding
+Validator
+Valid characters in XML
+Value change dump
+Variable bitrate
+Variable-Rate Multimode Wideband
+Variant object
+VC-1
+VDA 6.1
+VDA-FS
+Vector graphics
+Vector Markup Language
+Vector Product Format
+Vector sum excited linear prediction
+Versa (query language)
+VGM (file format)
+VGMusic.com
+VHD (file format)
+Video capture
+Video codec
+Video quality
+Virtual CD-ROM Control Panel
+VirtualDrive Pro
+Virtual environment software
+Virtual Floppy Disk (file type)
+Virtual Human Markup Language
+Virtuoso Universal Server
+Visual search engine
+VivoActive
+VMDK (file format)
+VOB
+Vocoder
+Voice search
+VoiceXML
+VoiD
+Vorbis
+VP3
+VP5
+VP6
+VP7
+VP8
+.VQA
+VQuad-HD
+VRML
+VTD-XML
+VTML
+VVVVVV
+W3C MMI
+WAI-ARIA
+Wander Over Yonder
+Warfare 1917
+WAR file format (Sun)
+Water Data Transfer Format
+Waterproof audio player
+WAV
+Wavefront .obj file
+Wavelet Scalar Quantization
+WaveMaker
+WavPack
+WDDX
+.wdp
+WEB
+Web3D Consortium
+Web3S
+WebAPI
+Webarchive
+Web ARChive
+Web feed
+WebFetch
+Webfmt
+WebM
+Web Ontology Language
+Web Open Font Format
+WebORB Integration Server
+WebP
+Web Page Maker
+Web Services Conversation Language
+Web Services Description Language
+Web Services Endpoint Language
+Website Parse Template
+Web Standards Project
+Weebl and Bob
+Weebl's cartoons
+Weekend Pussy Hunt
+Well-formed document
+Well-formed element
+Well-known text
+What-a-Cartoon
+White Pages (UDDI)
+WiiCade
+WikiMapia
+Wiki markup
+Wilbur (TV series)
+Wild Grinders
+Will and Dewitt
+Willa's Wild Life
+Winamp Alternative
+WinCDEmu
+Windows Imaging Format
+Windows Media Audio
+Windows Media Audio 9 Lossless
+Windows Media Components for QuickTime
+Windows Media Player Playlist
+Windows Media Video
+Windows Metafile
+Windows RSS Platform
+WinImage
+Wireless Application Protocol Bitmap Format
+Wireless Markup Language
+WiX
+WizFolio
+Wolfenstein 1-D
+Wolfram Alpha
+Women Writers Project
+WordGirl
+World file
+Wow! Wow! Wubbzy!
+WS-Discovery
+WS-Policy
+WS-Security
+WS-Transfer
+Wt (web toolkit)
+WWF (file format)
+.x
+X264
+X3D
+.x3f
+X68000's MDX
+XACML
+XAdES
+Xaira
+Xajax
+Xalan
+Xaml
+XAMLPad
+Xara Flare
+Xar (archiver)
+Xar (graphics)
+XBEL
+XBin
+X BitMap
+XBL
+.xbm
+XBRL
+XBRL GL
+XBRLS
+XCal
+XCBL
+XCES
+XCF (file format)
+XCOFF
+XDI
+Xdime
+XDocs
+Xdos
+XDR Schema
+XDuce
+XDXF
+XEE (Starlight)
+Xena (software)
+XEP
+Xerces
+Xerlin
+XeTeX
+X-expression
+XFA
+XFDesigner
+XForms
+XFrames
+XGMML
+XHTML
+XHTML Friends Network
+XHTML Modularization
+XHTML+RDFa
+XHTML+SMIL
+XHTML+Voice
+Xiao Xiao
+XidML
+XIMSS
+XInclude
+Xindy
+Xiph QuickTime Components
+XKMS
+XLIFF
+XLink
+.xls
+XMA (audio format)
+XMedia Recode
+XMetaL
+XMF
+XM (file format)
+XML
+XML appliance
+XML Base
+XMLBeans
+XML-binary Optimized Packaging
+XML Catalog
+XML Certification Program
+XML Configuration Access Protocol
+XML database
+XML data binding
+XML Data Package
+XML/EDIFACT
+XML editor
+XML Enabled Directory
+XML-Enabled Networking
+XML Encryption
+XML Events
+XML for Analysis
+XML framework
+XMLGUI
+XMLHttpRequest
+XML Information Set
+XML Interface for Network Services
+XML Literals
+XML Metadata Interchange
+XMLmind
+XML namespace
+XML Notepad
+XMLNuke
+XML Object Model
+XML pipeline
+XML Protocol
+XML Resource
+XML-Retrieval
+XML-RPC
+XML schema
+XML Schema Editor
+XML schema language comparison
+XML Schema (W3C)
+XML Script
+XML Shareable Playlist Format
+XML Signature
+XMLSpy
+XML stanza
+XMLStarlet
+XML Telemetric and Command Exchange
+Xml:tm
+XML transformation language
+XML tree
+XMLTV
+XML User Interface
+XML validation
+Xombie (flash cartoon)
+XOMGL
+XOXO
+XPath
+XPath 1.0
+XPath 2.0
+XPDL
+Xpeak
+X PixMap
+XPointer
+XProc
+XQuery
+XQuery API for Java
+XRDS
+XrML
+Xs3p
+XSIL
+XSL
+XSL Formatting Objects
+XSLT
+XSLT elements
+XStream
+XSUB
+Xtradyne
+XUL
+XULRunner
+XUpdate
+Xupl
+Xvid
+XVRML
+Xxencoding
+XYZ file format
+Xz
+Yahoo! Calendar
+Yahoo! Pipes
+YAML
+Yellow Pages (UDDI)
+YEnc
+Yetisports
+Yin Yang Yo!
+You Have to Burn the Rope
+YUI Library
+YULS
+Yummly
+Yuri Rubinsky
+Z39.50
+Z39.87
+Zamzar
+Zarafa (software)
+ZConvert
+ZCubes
+Zefania XML
+Zencoder
+Zimbra
+ZIM (file format)
+Z-index
+Zip (file format)
+ZK (framework)
+Zlango
+Zombie College
+Zoo (file format)
+Zorba - The XQuery Processor
+ZPAQ
+ZyWeb
+Μ-law algorithm

@@ -1,0 +1,834 @@
+2D plus Delta
+2D-plus-depth
+3CT
+3Dc
+3DML
+.3ds
+3DXML
+3GP and 3G2
+7z
+AAP DTD
+ABC notation
+ACE (file format)
+ACIS
+Adobe Captivate
+Adobe Flash
+Adobe Flash Professional
+Adobe Illustrator Artwork
+Adobe Shockwave Player
+Advanced Function Presentation
+Advanced Stream Redirector
+Advanced Systems Format
+AGML
+.ai (file format)
+AIML
+AIXM
+ALTO (XML)
+Amiga Disk File
+Amiga Hunk
+.ani
+ANI (file format)
+ANIM
+Annodex
+ANPA-1312
+A.out
+APNG
+Apple Advanced Typography
+Apple Disk Image
+Apple Icon Image format
+AppleSingle and AppleDouble formats
+AppML
+Arbortext Command Language
+ARC (file format)
+ArchiCAD library part
+Architecture Neutral Distribution Format
+Archive file
+Archive format
+ARJ
+Arm Image Format
+ART image file format
+Ar (Unix)
+.arw
+Ascii85
+ASCIIMathML
+ASCII tab
+Atari SAP music format
+Attention Profiling Mark-up Language
+Audio file format
+Audio Interchange File Format
+Audio Video Interleave
+Au file format
+AutoCAD DXF
+AutomationML
+Autopackage
+Average bitrate
+BagIt
+BASBAL
+Base32
+Base 36
+Base64
+.bay
+BE-Bridge
+.bef
+BEF (image format)
+BibTeX
+Binary-to-text encoding
+BinHex
+Bink Video
+Bitmap
+Bitstream Speedo Fonts
+Blaxxun
+Blorb
+.BLP
+BMP file format
+Bookends (software)
+Boot image
+Boot image control
+BSAVE (graphics image format)
+.bss
+Bzip2
+Cabinet (file format)
+CAD data exchange
+CAD standards
+CALS (DOD)
+CALS Raster file format
+CALS Table Model
+Camera Image File Format
+.cap
+Cartesian Perceptual Compression
+Cascading Style Sheets
+CCP4 (file format)
+CDuce
+CDX Format
+CDXL
+CDXML
+CellML
+CFS (Compact File Set file format)
+.cgm
+Charles Goldfarb
+Chemical file format
+Chemical Markup Language
+Chemical table file
+Chord (software)
+C-HTML
+.cin
+CinemaDNG
+Cineon
+CityGML
+ClaML
+CMD file (CP/M)
+Codec
+Code segment
+COFF
+Collaborative Application Markup Language
+COLLADA
+Combined Community Codec Pack
+COM file
+Comma-separated values
+Common Log Format
+Comparison of archive formats
+Comparison of container formats
+Comparison of disc image software
+Comparison of document markup languages
+Comparison of executable file formats
+Comparison of graphics file formats
+Comparison of stylesheet languages
+Comparison of Vector Formats (GIS)
+Component content management system
+Compound Document Format
+Compound File Binary Format
+Computable Document Format
+Computer Graphics Metafile
+Constant bitrate
+Content Sealed Format
+Continuous Media Markup Language
+Controlled image base
+Conversation Markup Language
+CopyCatX
+Core Audio Format
+CoreAVC
+.cpc
+.cpi
+Cpio
+CPT (file format)
+Creative Music File
+Crossmark
+.crw
+Crystallographic Information File
+CSV application support
+Curl (programming language)
+Cybersound
+DAISY Digital Talking Book
+DAML+OIL
+DAML-S
+DARPA Agent Markup Language
+Darwin Information Typing Architecture
+Datafork TrueType
+Data Interchange Format
+Data segment
+Datex2
+DCML (markup language)
+.dcr
+.dcs
+Dct (File Format)
+Deb (file format)
+Delimiter
+Departmental boot image
+Design Web Format
+Device independent file format
+DGCA (computing)
+DGML
+DGN
+Dialog Control Language
+Dialogic ADPCM
+DicML
+Digital container format
+Digital Geographic Exchange Standard
+Digital line graph
+Digital Negative
+Digital Novel Markup Language
+Digital Picture Exchange
+Digital raster graphic
+Direct Access Archive
+DirectDraw Surface
+Disk Copy Fast
+Disk image
+Disk Masher System
+Distributed Social Networking Protocol
+DITA Open Toolkit
+DivX
+.djv
+.djvu
+DjVu
+DLS format
+DMPL
+.dng
+DocBook
+Docear
+Document Freedom Day
+Document Style Semantics and Specification Language
+DOOM
+Doom WAD
+DOS MZ executable
+DOT language
+.dpx
+Drawn File
+.drf
+.drw
+DTBook
+DTED
+Dual Independent Map Encoding
+Dublin Core
+Duke3d
+Duke3D
+DWARF
+.dwg
+DXL
+Dynamic Cascading Style Sheets
+EAR (file format)
+EARMARK
+EbXML
+EbXML Messaging Services
+ECOFF
+.ecw
+ECW (file format)
+Efficient XML Interchange
+EGG (file compression)
+Embedded OpenType
+EMML
+EMML (Motorola)
+Emotion Markup Language
+Encapsulated PostScript
+Encoded Archival Context
+Encoded Archival Description
+EndNote
+Enriched text
+Enterprise forms automation
+EPUB
+.erf
+Esri grid
+Example Pictor Decoder
+Example Pictor Encoder
+Exchangeable image file format
+EXE
+Executable and Linkable Format
+.exif
+.exr
+EXSLT
+Extended Log Format
+Extended Vector Animation
+Extensible Application Markup Language
+Extensible Binary Meta Language
+Extensible Forms Description Language
+F3 (font format)
+FASTA format
+FASTQ format
+Fat binary
+FCX file compression
+Fdb
+.fff
+FHTML
+FictionBook
+Fielded text
+FileMaker Dynamic Markup Language
+FITS
+Fixed exe
+FlashPix
+Flash Video
+FLIC (file format)
+FontForge
+Formatted Disk Image
+Formatting Output Specification Instance
+FpML
+.fpx
+Fractal compression
+FreeArc
+FutureSplash Animator
+Fuzzy markup language
+FXG
+FXML
+Game Boy Sound System
+GCA (file format)
+GDAL
+General MIDI
+General purpose markup language
+Gens Sound Record
+Geographic data
+Geographic Data Files
+Geography Markup Language
+GeoJSON
+Geometric Description Language
+GeoSciML
+Geotagged photograph
+GeoTIFF
+GeoXACML
+Gerber format
+.gfa
+Ghent PDF Workgroup
+.gif
+Gifar
+GIS file formats
+Global information management Metrics eXchange
+Glyph Bitmap Distribution Format
+GML Application Schemas
+GNU LilyPond
+.gnumeric
+GNU Unifont
+GPS eXchange Format
+Graphics Interchange Format
+Graphite (SIL)
+GraphML
+Graph Modelling Language
+Green Building XML
+GRML
+.gs (file format)
+GuideML
+Guitar chord file format
+GXL
+GYM
+Gzip
+Haiku Vector Icon Format
+Handheld Device Markup Language
+.hdp
+HDRi (data format)
+Hershey font
+HHCode
+High-Speed Reliable Logging
+HTML
+HTML5
+HTML5 in mobile devices
+HTML+TIME
+HTTP body data
+Hudson Entertainment System Sound Format
+Human Markup Language
+Hypertext Transfer Protocol
+HyTime
+IBM Generalized Markup Language
+ICER
+.icns
+.ico
+ICO (file format)
+.iff
+IGES
+.iiq
+.ilbm
+ILBM
+IMA (file format)
+Image Cytometry Standard
+Image file formats
+IMF (file format)
+IMG (file format)
+Impro-Visor
+InChI Trust
+Information Presentation Facility
+Intel HEX
+Intellifont
+Interaction protocol
+Intergraph Standard File Formats
+International Chemical Identifier
+International development markup language (IDML)
+Internationalization Tag Set
+InterShop Markup Language
+ISO 10303
+ISO 12234-2
+ISO 13399
+ISO 2709
+ISO base media file format
+ISO image
+ISO-TimeML
+ITunes LP
+JAM notation
+JAR (file format)
+JavaScript Style Sheets
+JBIG
+JBIG2
+JEDMICS
+.jls
+.jng
+Joint Bi-level Image Experts Group
+Joint Committee on Atomic and Molecular Physical Data
+.jp2
+.jpe
+JPEG
+JPEG 2000
+JPEG File Interchange Format
+JPEG-HDR
+JPEG Network Graphics
+JPEG XR
+.jpx
+JSON
+JSON-LD
+JT (visualization format)
+.k25
+.kdc
+KernelCAD
+Keyhole Markup Language
+KIWI (computing)
+K-Lite Codec Pack
+KXML
+LaTeX2HTML
+Layered Image File Format
+.lbm
+LBR (file format)
+LCF notation
+LEB128
+LESS (stylesheet language)
+LHA (file format)
+LibLAS
+Lightweight markup language
+LinuxDoc
+Listaller
+List of archive formats
+List of codecs
+List of content syndication markup languages
+List of document markup languages
+List of file formats
+List of file formats (alphabetical)
+List of markup languages
+List of programs that open TS files
+List of RISC OS filetypes
+List of STEP (ISO 10303) parts
+List of stylesheet languages
+List of XML markup languages
+Log4j
+Logluv TIFF
+LOGML
+Lossless JPEG
+Lpod
+LSM (Zeiss)
+M3U
+M4V
+MacBinary
+Mach-O
+Magick Image File Format
+Maildir
+Maker Interchange Format
+Mallard (documentation)
+MAP (file format)
+MapInfo Interchange Format
+MapInfo TAB format
+MARC standards
+Markup language
+Mathematical markup languages
+MathML
+MBM (file format)
+Mbox
+MD2 (file format)
+MD3 (file format)
+.MDX
+MECS
+Medical Reality Markup Language
+.mef
+Metadata Authority Description Schema
+Metadata Object Description Schema
+Metafont
+METS
+MH Message Handling System
+MHTML
+MicroDVD
+Microsoft Assistance Markup Language
+Microsoft Document Imaging Format
+Microsoft Office XML formats
+MIDI 1.0
+MIDI file
+MIDI Tuning Standard
+MIL-CD
+MIX (Email)
+.mng
+MODCA
+.mos
+MOS Technology SID
+Mozilla Archive Format
+MPEG-4 Part 14
+MPEG-4 Part 17
+MPEG program stream
+MPEG transport stream
+MPQ
+MRC (file format)
+MrSID
+.mrw
+MSCML
+MSML
+MSSTYLES
+Multiple-image Network Graphics
+Multiple master fonts
+Mumasy
+Music Encoding Initiative
+Music Macro Language
+MusicXML
+MVI
+MXP (computing)
+National Information Standards Organization Circulation Interchange Protocol
+National Transfer Format
+NavPix
+NCSA log formats
+.nef
+NES Sound Format
+Nested Context Language
+Netpbm format
+NetWare Loadable Module
+New Executable
+Newick format
+Notation Interchange File Format
+NRG (file format)
+Nullsoft Streaming Video
+OAXAL
+Object file
+Observations and Measurements
+OCML
+ODB++
+.ods
+Odttf
+Office Open XML
+Office Open XML file formats
+Office Open XML Intermediate 5 Month Ballot Results
+OFML
+OGDL
+Ogg
+Ogg Writ
+OIOXML
+OMDoc
+OMG standard
+ONIX for Books
+Onix (publishing protocol)
+OpenCTM
+Open Design Alliance
+OpenDocument
+Open Document Architecture
+Open eBook
+OpenEXR
+OpenLR
+Open Mashup Alliance
+OpenMath
+OpenOffice.org XML
+OpenRaster
+Open Scripture Information Standard
+Open Sound Control
+OpenTravel Alliance
+OpenType
+Orchidée (software)
+.orf
+ORF format
+OWL-S
+Page description markup language
+PAK (file format)
+PAM graphics format
+Parameter Value Language
+Parasolid
+Parchive
+Partimage
+.pcx
+PCX
+PDF/X
+PEA (file format)
+.pef
+People Finder Interchange Format
+Percent-encoding
+Personal Storage Table
+PEVQ
+Photofont
+Physical markup language
+PICT
+PICtor PIC image format
+Pileup format
+PK2 (file extension)
+PK3 (file extension)
+PK4 (file extension)
+Pkfix
+Playlist
+PLS (file format)
+PLY (file format)
+.png
+Polyglot markup
+Portable Compiled Format
+Portable Document Format
+Portable Executable
+Portable Network Graphics
+Portable Sound Format
+PostScript fonts
+PPML
+PRC (file format)
+Precision Graphics Markup Language
+Predictive Model Markup Language
+Preferred Executable Format
+Product data record
+Program database
+Progressive Graphics File
+Protein Data Bank (file format)
+.psd
+.ptx
+Public identifier
+.pxn
+Qcow
+Qiqqa
+QUAD (compressor)
+QuickTime File Format
+QuickTime VR
+Quoted-printable
+R2ML
+.r3d
+.raf
+Rainman
+RAR
+Raster graphics
+Raw image format
+RDOFF
+RealMedia
+RecipeML
+Refer (software)
+ReGIS
+Relocatable Object Module Format
+Resource Description Framework
+Revisable-Form Text
+RGBE image format
+Rhapsody Radish
+Rich Music Format
+RIS (file format)
+RMVB
+Round-trip format conversion
+RPM Package Manager
+RuleML
+.rw2
+SAMI
+Sass (stylesheet language)
+SBML
+Scalable Vector Graphics
+Scitex CT
+Screencast
+Scribe (markup language)
+SDEP
+Segmentation Rules eXchange
+Segmented Hyper Graphics
+SEG Y
+Self mounting image
+SensorML
+Server Normal Format
+SFNT
+SGML entity
+SGML name
+Shapefile
+Shar
+Sharable Content Object Reference Model
+Silicon Graphics Image
+Simple Declarative Language
+Simplified molecular-input line-entry system
+SIS (file format)
+Sixel
+SLF4J
+Smacker video
+SMIL Timesheets
+Snappy (software)
+SNP file format
+SOAP Service Description Language
+SOSI
+Spacecraft Markup Language
+Sparse image
+Spatial Archive and Interchange Format
+Spatial data file
+Spatial Data Transfer Standard
+SpatiaLite
+Speech Application Language Tags
+Speech Synthesis Markup Language
+SpreadsheetML
+SQ (program)
+SQX
+.sr2
+SREC (file format)
+.srf
+SRID
+Stabs
+Standard Generalized Markup Language
+Standardization of Office Open XML
+StarDict
+Stereoscopic Video Coding
+.STL
+STL (file format)
+Stockholm format
+Structured Fax File
+Study Archive
+StuffIt
+Style sheet language
+SubRip
+SubStation Alpha
+.svg
+.svgz
+.swf
+SWF
+SXBL
+SXML
+SYBYL line notation
+SYmbolic LinK (SYLK)
+Symbol table
+Synchronized Multimedia Integration Language
+Synthetic music mobile application format
+Syslog
+System identifier
+System.map
+System Object Model (file format)
+Tab-separated values
+Tagged Image File Format
+Tar (file format)
+Tektronix extended HEX
+TenDRA Distribution Format
+Tent (protocol)
+TeX font metric
+TeXML
+Text Encoding Initiative
+Text semigraphics
+Theological Markup Language
+Tieline
+.tif
+.tiff
+TIFF/EP
+Timed Text
+TimeML
+Topologically Integrated Geographic Encoding and Referencing
+TrigML
+Trivial Graph Format
+TrueDoc
+TrueType
+Truevision TGA
+Twitter Markup Language
+Uniform Office Format
+Universal 3D
+Universal binary
+Universal Business Language
+Universal Subtitle Format
+Unstructured Operation Markup Language
+Use of Ogg formats in HTML5
+User interface markup language
+User interface style sheet language
+USGS DEM
+Utz (file format)
+Uuencoding
+Variable bitrate
+Variant object
+VDA 6.1
+VDA-FS
+Vector graphics
+Vector Markup Language
+Vector Product Format
+VGM (file format)
+VGMusic.com
+VHD (file format)
+Video capture
+Video quality
+Virtual Floppy Disk (file type)
+Virtual Human Markup Language
+VMDK (file format)
+VOB
+VoiceXML
+.VQA
+VRML
+WAR file format (Sun)
+Water Data Transfer Format
+WAV
+Wavefront .obj file
+Wavelet Scalar Quantization
+WDDX
+.wdp
+Web3D Consortium
+Webarchive
+Web ARChive
+Web Open Font Format
+WebP
+Website Parse Template
+Well-known text
+Windows Imaging Format
+Windows Media Components for QuickTime
+Windows Media Player Playlist
+Windows Metafile
+Wireless Application Protocol Bitmap Format
+WizFolio
+World file
+WWF (file format)
+.x
+X3D
+.x3f
+X68000's MDX
+Xara Flare
+Xar (archiver)
+XBin
+X BitMap
+XBL
+.xbm
+XCES
+XCF (file format)
+XCOFF
+Xdime
+XDuce
+XDXF
+Xena (software)
+XFA
+XGMML
+XHTML
+XHTML+SMIL
+XLink
+.xls
+XMF
+XML
+XML Shareable Playlist Format
+Xml:tm
+XOMGL
+X PixMap
+XProc
+XSL
+XSL Formatting Objects
+XSLT
+XSUB
+XULRunner
+Xupl
+XVRML
+Xxencoding
+XYZ file format
+Xz
+YAML
+YEnc
+Yuri Rubinsky
+Z39.87
+Zefania XML
+ZIM (file format)
+Zip (file format)
+Zlango
+Zoo (file format)
+ZPAQ
